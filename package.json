@@ -1,0 +1,29 @@
+{
+  "name": "piyush-extension-pack",
+  "displayName": "Essential Extension Pack by Piyush",
+  "description": "Extensions I used on daily basics for web development and other languages",
+  "publisher": "Piyush Pandey",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "codestackr.codestackr-theme",
+    "aaron-bond.better-comments",
+    "wix.vscode-import-cost",
+    "usernamehw.errorlens",
+    "vsls-contrib.gistfs",
+    "rangav.vscode-thunder-client",
+    "adpyke.codesnap",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "patbenatar.advanced-new-file",
+    "hnw.vscode-auto-open-markdown-preview",
+    "coenraads.bracket-pair-colorizer-2",
+    "albert.tabout",
+    "olback.es6-css-minify"
+  ]
+}
