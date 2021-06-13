@@ -2,7 +2,11 @@
   "name": "piyush-extension-pack",
   "displayName": "Essential Extension Pack by Piyush",
   "description": "Extensions I used on daily basics for web development and other languages",
-  "publisher": "Piyush Pandey",
+  "publisher": "piyush-pandey",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zephyrus21/piyush-extension-pack"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.57.0"
