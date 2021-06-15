@@ -2,6 +2,7 @@
   "name": "piyush-extension-pack",
   "displayName": "Essential Extension Pack by Piyush",
   "description": "Extensions I used on daily basics for web development and other languages",
+  "icon": "./assets/icon.png",
   "publisher": "piyush-pandey",
   "repository": {
     "type": "git",
